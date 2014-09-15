@@ -1,6 +1,6 @@
 {
   "name": "organic-dna-cellmodes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
     "organic-dna-branches": "^0.0.2",
