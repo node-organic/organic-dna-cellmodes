@@ -1,7 +1,6 @@
 {
   "name": "organic-dna-cellmodes",
   "version": "0.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "organic-dna-branches": "^0.0.2",
@@ -12,5 +11,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Boris Filipov",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/outbounder/organic-dna-cellmodes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/outbounder/organic-dna-cellmodes/issues"
+  },
+  "homepage": "https://github.com/outbounder/organic-dna-cellmodes"
 }
