@@ -1,6 +1,6 @@
 {
   "name": "organic-dna-cellmodes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
     "organic-dna-branches": "^0.0.2",
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/outbounder/organic-dna-cellmodes/issues"
   },
-  "homepage": "https://github.com/outbounder/organic-dna-cellmodes"
+  "homepage": "https://github.com/outbounder/organic-dna-cellmodes",
+  "description": "Simple utility function to fold and merge DNA structure based on given value."
 }
