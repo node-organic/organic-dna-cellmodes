@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
+    "lodash.has": "^4.3.0",
     "organic-dna-branches": "^0.0.2",
     "organic-dna-fold": "^0.1.0"
   },
