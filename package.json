@@ -7,9 +7,11 @@
     "organic-dna-branches": "^0.0.2",
     "organic-dna-fold": "^1.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "ava": "^2.3.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "ava",
     "release-patch": "npm version patch && npm publish && git push --tags && git push origin master",
     "release-minor": "npm version minor && npm publish && git push --tags && git push origin master",
     "release-major": "npm version major && npm publish && git push --tags && git push origin master"
@@ -18,11 +20,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/outbounder/organic-dna-cellmodes.git"
+    "url": "https://github.com/node-organic/organic-dna-cellmodes.git"
   },
   "bugs": {
-    "url": "https://github.com/outbounder/organic-dna-cellmodes/issues"
+    "url": "https://github.com/node-organic/organic-dna-cellmodes/issues"
   },
-  "homepage": "https://github.com/outbounder/organic-dna-cellmodes",
+  "homepage": "https://github.com/node-organic/organic-dna-cellmodes",
   "description": "Simple utility function to fold and merge DNA structure based on given value."
 }
