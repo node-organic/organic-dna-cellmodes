@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "lodash.has": "^4.3.0",
-    "organic-dna-branches": "^0.0.2",
+    "lodash.has": "^4.5.2",
+    "organic-dna-branches": "^1.0.0",
     "organic-dna-fold": "^1.0.0"
   },
   "devDependencies": {
-    "ava": "^2.3.0"
+    "ava": "^3.15.0"
   },
   "scripts": {
     "test": "ava",
