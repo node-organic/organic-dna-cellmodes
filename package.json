@@ -1,6 +1,6 @@
 {
   "name": "organic-dna-cellmodes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "lodash.has": "^4.5.2",
